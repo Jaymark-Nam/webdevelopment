@@ -1,0 +1,28 @@
+
+header{
+	background-color: rgb(160,160,160);
+}
+
+h1{
+	color : rgb(256,256,256);
+	text-align: center;
+	text-transform: capitalize;
+}
+
+h2{
+	color : rgb(0,0,130);
+	text-transform: capitalize;	
+}
+
+aside{ 
+	display: none; 
+}
+
+section{
+	background-color: rgb(100,100,100);
+}
+
+a{
+	background-color: rgb(180,180,180);
+	color : rgb(0,0,0);
+}
